@@ -12,6 +12,8 @@ def isPrime(primeList, num):
 
 def generatePrimeList(max):
     primeList = [True]*max
+    primeList[0] = False
+    primeList[1] = False
     upper = int(sqrt(max))
     for i in range(2, upper):
         if primeList[i]:
