@@ -4,6 +4,6 @@
 
 **This is my personal solutions for the project euler**   
 **Written in python**   
-**Run in python3.x**   
+**Tested in python2.7**   
 
 
